@@ -1,0 +1,13 @@
+body {
+  background-color: rgba(255, 235, 205, 0.619);
+  padding-top: 30px;
+}
+h1 {
+  margin: 20px;
+}
+.description {
+  margin: 70px;
+}
+img {
+  padding: 20px;
+}
